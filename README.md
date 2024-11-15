@@ -2,7 +2,7 @@
 
 ## And 
 
-<img src="./And .png" />
+<img src="./And.png" />
 
 ## Xor
 

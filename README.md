@@ -2,8 +2,8 @@
 
 ## And 
 
-<img src="./And.png" />
+<img src="./And.png"/>
 
 ## Xor
 
-<img src="./Xor.png>" />
+<img src="./Xor.png>"/>
